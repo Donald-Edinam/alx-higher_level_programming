@@ -5,4 +5,7 @@ def replace_in_list(my_list, idx, element):
     else:
         my_list[idx] = element
         return my_list
+<<<<<<< HEAD
 
+=======
+>>>>>>> 16fd906d3901bf97234a79c00ad91a286d3cc881
